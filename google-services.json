@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "633048321870",
+    "project_id": "dream-app-456104",
+    "storage_bucket": "dream-app-456104.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633048321870:android:4c177e5a176b476727181f",
+        "android_client_info": {
+          "package_name": "com.ahmed_ehtesam.DreamApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633048321870-78eajcsn0mpe70gup10e57icddjrj051.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed_ehtesam.DreamApp",
+            "certificate_hash": "cfe13034a4b603fba8998a0eccaf14bf84a78ea2"
+          }
+        },
+        {
+          "client_id": "633048321870-q33b2r0c0dkcopaglh2oeh48b628q1vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed_ehtesam.DreamApp",
+            "certificate_hash": "1bf18393c19d893375c106d71ec49cd34313a16e"
+          }
+        },
+        {
+          "client_id": "633048321870-nsgq6150rfeptq9ve1jj4bnqgp5lam7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8EDTeWCPDKLZzPL67Wqosvo2pzl1jEeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633048321870-4kk1of3ce4gaur6s66g614smjr8dq395.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633048321870-puk4n92074mlhbl03h6gq9501otao43m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apex.dream"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633048321870:android:0ac568c71e0dc95827181f",
+        "android_client_info": {
+          "package_name": "com.apex.dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633048321870-p913ei7blf9ht0k33vtqedfg43prfjc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apex.dream",
+            "certificate_hash": "1bf18393c19d893375c106d71ec49cd34313a16e"
+          }
+        },
+        {
+          "client_id": "633048321870-nsgq6150rfeptq9ve1jj4bnqgp5lam7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8EDTeWCPDKLZzPL67Wqosvo2pzl1jEeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633048321870-4kk1of3ce4gaur6s66g614smjr8dq395.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633048321870-puk4n92074mlhbl03h6gq9501otao43m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apex.dream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
